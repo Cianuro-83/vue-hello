@@ -14,6 +14,8 @@ createApp({
         "oggi è la prima volta che metti le mani su VUE... cerca di non fare danni come al tuo solito...",
       classDescrizione:
         "text-center my-5 text-success fs-3 text-decoration-underline",
+      url: "./img/logoCianuro2022.png",
+      urlDescription: "logo di Simone Cianuro Buzzeo versione 2022",
     };
   },
 }).mount("#app");
